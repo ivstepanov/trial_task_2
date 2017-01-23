@@ -1,0 +1,14 @@
+.cproject
+.project
+*.o
+.*.cmd
+.*.flags
+*.mod.c
+*.order
+.*.*.cmd
+*~
+*.*~
+TODO.*
+.tmp*
+.tmp_versions
+*.symvers
