@@ -1,2 +1,5 @@
 # trial_task_2
-trial task 2
+####Build driver: 
+    make
+####Test driver:
+    ./test.sh 
